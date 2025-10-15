@@ -5,5 +5,9 @@ void main()
   pop();
   display();
 }
-{
 void push()
+{}
+void pop()
+{}
+void display()
+{}
