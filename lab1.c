@@ -5,4 +5,5 @@ void main()
   pop();
   display();
 }
-
+{
+void push()
